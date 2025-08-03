@@ -1,6 +1,5 @@
 # 💫 About Me:
-Working on APEX
-
+im very cool
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@@test) 
